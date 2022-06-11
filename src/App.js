@@ -1,7 +1,7 @@
 
 import MainForm from './components/MainForm';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import ChatRoom  from './components/ChatRoom';
+import ChatRoom  from './components/ChatRoom/ChatRoom';
 
 
 function App() {
